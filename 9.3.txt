@@ -1,5 +1,0 @@
-- git checkout -b
-- 
-- git checkout
-- git branch -D
-- When two the same files with the same names but different changes is merging
